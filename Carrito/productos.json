@@ -1,0 +1,43 @@
+[{
+        "price": 50000,
+        "id": 1,
+        "title": "Camiseta Bogotá",
+        "description": "Exclusiva diseño de camiseta de Bogotá, disponibilidad limitada",
+        "imageUrl": "img/camiseta.jpg"
+    },
+    {
+        "price": 150000,
+        "id": 2,
+        "title": "Chaqueta Adidas",
+        "description": "Chaqueta adidas premium, disponibilidad limitada",
+        "imageUrl": "img/Chaqueta.jpg"
+    },
+    {
+        "price": 60000,
+        "id": 3,
+        "title": "Pantalon Cafe",
+        "description": "Elegante pantalon cafe para hombre, disponibilidad limitada",
+        "imageUrl": "img/pantalon.jpg"
+    },
+    {
+        "price": 80000,
+        "id": 4,
+        "title": "Camisa Azul",
+        "description": "Camisa azul casual para hombre, disponibilidad limitada",
+        "imageUrl": "img/camisa.jpg"
+    },
+    {
+        "price": 180000,
+        "id": 5,
+        "title": "Zapatillas Nike",
+        "description": "Zapatillas deportivas Nike unisex, disponibilidad limitada",
+        "imageUrl": "img/zapatos.jpg"
+    },
+    {
+        "price": 200000,
+        "id": 6,
+        "title": "Reloj Reward",
+        "description": "Relog Reward para hombre, disponibilidad limitada",
+        "imageUrl": "img/relog.jfif"
+    }
+]
